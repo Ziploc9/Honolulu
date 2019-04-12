@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../Imagenes/fondoMail.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    
+}
+.primerNombre{
+    text-align: center;
+    color: antiquewhite;
+    
+}
+.primerMail{
+    text-align: center;
+    color: antiquewhite;
+    
+}
+.primerSubmit{
+    text-align: center;
+    color: antiquewhite;
+}

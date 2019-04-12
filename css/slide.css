@@ -1,7 +1,8 @@
 .main{
-    width: 90%;
+    width: 100%;
     max-width: 1000px;
-    margin: 20px auto;
+    min-width: 500px;
+    margin: 0px auto;
 }
 .slides{
     width: 100%;
@@ -11,9 +12,6 @@
 }
 .slides img{
     height: 100%;
-    width: 100%;
-    border-radius: 10%;
-    
 }
 .slidesjs-pagination{
     background: #424242;
@@ -25,7 +23,7 @@
 }
 .slidesjs-pagination li a{
     display: block;
-    padding: 10px 20px;
+    padding: 10px 4px;
     color: #fff;
     text-decoration: none;
 }
